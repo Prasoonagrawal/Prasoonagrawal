@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/Shreyans13/prasoonagrawal/master/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! 
+<h1 align="center"><img src="https://raw.githubusercontent.com/Shreyans13/Yogeshk4124/master/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! 
 <br>
 <h1 align="center">I'm Prasoon Agrawal
 </h1>
@@ -69,7 +69,7 @@ _Languages and Tools:_ 🛠 <br><br>
 
 
 
-<a href="https://www.instagram.com/prasoon__agrawa/">
+<a href="https://www.instagram.com/prasoon__agrawal/">
 <img align="left" alt="Prasoon Agrawal | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />
 </a>
 
