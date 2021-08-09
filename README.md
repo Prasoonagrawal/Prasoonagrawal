@@ -5,24 +5,14 @@
 
 <p align="center">
   <em>
-    I am Prasoon Agrawalr, a 4rth year undergraduate pursuing B.Tech (CSE) from <a href="https://www.cuchd.in"> <b>Lovely Professional Universityy</b>, Punjab/a>. <br>
-    An aspiring <b> Pyhton Developer  </b>  and a <b>Competitive Programming Enthusiast, </b>&nbsp;&nbsp <br><b>still a learner</b>
+    I am Prasoon Agrawalr, a 4rth year undergraduate pursuing B.Tech (CSE) from <a href="https://www.cuchd.in"> <b>Lovely Professional Universityy</b>, Punjab />. <br>
+    An aspiring <b> Developer  </b>  and a <b>Competitive Programming Enthusiast, </b>&nbsp;&nbsp <br><b>still a learner</b>
     with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> and a
     <b>developer</b> &nbsp.
   </em>
 </p>
 
 <img align="right" width=300px alt="Github Cat" src="https://www.damiestechnologies.com/img/programmer.gif" />
-
-
-- &nbsp;Working on **_Competitive Programming skills..._**
-- &nbsp;Looking forward to work on projects &nbsp;!
-- &nbsp;Currently learning flutter
-- &nbsp;Pronouns: Android Developer, UI/UX, Firebase, Competitive programmer....
-- &nbsp;Collaborating in various projects as an Open - Source Contributor ...
-- &nbsp;Desire to develop new things in the field of Android 👨‍💻
-- &nbsp;Ask me about anything, I am happy to help, only if the ball is in my court⚡️
-
 <br><br>
 
 <hr>
