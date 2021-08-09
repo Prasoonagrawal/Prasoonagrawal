@@ -1,16 +1,80 @@
-### Hi there 👋
+<h1 align="center"><img src="https://raw.githubusercontent.com/Shreyans13/Yogeshk4124/master/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! 
+<br>
+<h1 align="center">I'm Yogesh Kumar 
+</h1>
 
+<p align="center">
+  <em>
+    I am Prasoon Agrawalr, a 4rth year undergraduate pursuing B.Tech (CSE) from <a href="https://www.cuchd.in"> <b>Lovely Professional Universityy</b>, Punjab/a>. <br>
+    An aspiring <b> Pyhton Developer  </b>  and a <b>Competitive Programming Enthusiast, </b>&nbsp;&nbsp <br><b>still a learner</b>
+    with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> and a
+    <b>developer</b> &nbsp.
+  </em>
+</p>
+
+<img align="right" width=300px alt="Github Cat" src="https://www.damiestechnologies.com/img/programmer.gif" />
+
+
+- &nbsp;Working on **_Competitive Programming skills..._**
+- &nbsp;Looking forward to work on projects &nbsp;!
+- &nbsp;Currently learning flutter
+- &nbsp;Pronouns: Android Developer, UI/UX, Firebase, Competitive programmer....
+- &nbsp;Collaborating in various projects as an Open - Source Contributor ...
+- &nbsp;Desire to develop new things in the field of Android 👨‍💻
+- &nbsp;Ask me about anything, I am happy to help, only if the ball is in my court⚡️
+
+<br><br>
+
+<hr>
+
+_Languages and Tools:_ 🛠 <br><br>
+<code><img src="https://img.icons8.com/color/48/000000/flutter.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/android-os.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/python.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/></code>
+<code><img src="https://img.icons8.com/metro/48/000000/mysql.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/git.png"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<hr>
+
+<p align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Yogeshk4124&count_private=true&show_icons=true&theme=highcontrast" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshk4124&show_icons=true&layout=compact&theme=highcontrast" alt="Most Used Languages">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Yogeshk4124&theme=highcontrast" alt="Streak">
+</p>
 <!--
-**Prasoonagrawal/Prasoonagrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+<details align="center">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br />
+</details>
 -->
+
+🔭 You have finally discovered my Github profile!!
+<br>Thanks for stopping by!
+<br>
+<br>
+
+# Connect with me <img src="https://github.com/prasoonagrawal/prasoonagrawal/blob/master/Assets/Handshake.gif" height="32px">
+
+[<img align="left" alt="Prasoon Portfolio" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />]()
+
+[<img align="left" alt="Yogesh_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/yogesh-kumar-ba5b7417b/)
+
+
+
+<a href="https://www.instagram.com/prasoon__agrawa/">
+<img align="left" alt="Prasoon Agrawal | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />
+</a>
+
+<a href="https://t.me/prasoonagrawal">
+  <img align="left" alt="Yogesh's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=prasoonagrawal&repo=prasoonagrawal&countColorcountColor&countColor=%237B1E7B"/>
