@@ -18,10 +18,11 @@
 
 _Languages and Tools:_ 🛠 <br><br>
 <code><img src="https://img.icons8.com/color/48/000000/flutter.png"/></code>
-  <img src="https://img.icons8.com/color/50/000000/jenkins.png"/>
-  <img src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/>
-  <img src="https://img.icons8.com/material/50/000000/amazon-web-services.png"/>
-<code><img src="https://icons8.com/icon/39292/icon"/></code>
+<code>  <img src="https://img.icons8.com/color/50/000000/jenkins.png"/></code>
+<code>  <img src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/></code>
+ <code> <img src="https://img.icons8.com/windows/50/000000/kubernetes.png"/></code>
+ <code> <img src="https://img.icons8.com/color/50/000000/docker.png"/></code>
+<code>  <img src="https://img.icons8.com/clouds/50/000000/google-logo.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
