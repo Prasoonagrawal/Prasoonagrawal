@@ -11,8 +11,6 @@
     <b>developer</b> &nbsp.
   </em>
 </p>
-
-<img align="right" width=300px alt="Github Cat" src="https://www.damiestechnologies.com/img/programmer.gif" />
 <br><br>
 
 <hr>
