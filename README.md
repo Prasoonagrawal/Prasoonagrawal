@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/Shreyans13/Yogeshk4124/master/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! 
+<h1 align="center"><img src="https://raw.githubusercontent.com/Shreyans13/prasoonagrawal/master/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! 
 <br>
-<h1 align="center">I'm Yogesh Kumar 
+<h1 align="center">I'm Prasoon Agrawal
 </h1>
 
 <p align="center">
@@ -44,9 +44,9 @@ _Languages and Tools:_ 🛠 <br><br>
 
 <p align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Yogeshk4124&count_private=true&show_icons=true&theme=highcontrast" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshk4124&show_icons=true&layout=compact&theme=highcontrast" alt="Most Used Languages">
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Yogeshk4124&theme=highcontrast" alt="Streak">
+<img src="https://github-readme-stats.vercel.app/api?username=prasoonagrawal&count_private=true&show_icons=true&theme=highcontrast" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prasoonagrawal&show_icons=true&layout=compact&theme=highcontrast" alt="Most Used Languages">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=prasoonagrawal&theme=highcontrast" alt="Streak">
 </p>
 <!--
 <hr>
@@ -65,7 +65,7 @@ _Languages and Tools:_ 🛠 <br><br>
 
 [<img align="left" alt="Prasoon Portfolio" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />]()
 
-[<img align="left" alt="Yogesh_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/yogesh-kumar-ba5b7417b/)
+[<img align="left" alt="Prasoon_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/prasoon-agrawal-11803367/)
 
 
 
@@ -73,8 +73,5 @@ _Languages and Tools:_ 🛠 <br><br>
 <img align="left" alt="Prasoon Agrawal | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />
 </a>
 
-<a href="https://t.me/prasoonagrawal">
-  <img align="left" alt="Yogesh's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=prasoonagrawal&repo=prasoonagrawal&countColorcountColor&countColor=%237B1E7B"/>
