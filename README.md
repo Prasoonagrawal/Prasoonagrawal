@@ -56,7 +56,7 @@ _Languages and Tools:_ 🛠 <br><br>
 
 # Connect with me <img src="https://github.com/prasoonagrawal/prasoonagrawal/blob/master/Assets/Handshake.gif" height="32px">
 
-[<img align="left" alt="Prasoon Portfolio" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />]()
+
 
 [<img align="left" alt="Prasoon_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/prasoon-agrawal-11803367/)
 
