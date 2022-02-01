@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    I am Prasoon Agrawalr, a 4rth year undergraduate pursuing B.Tech (CSE) from <b>Lovely Professional Universityy</b>, Punjab />. <br>
+   My name is Prasoon Agrawal, 4th year undergraduate pursuing B.Tech (CSE) from <b>Lovely Professional University</b>, Punjab />. <br>
     An aspiring <b> Developer  </b>  and a <b>Competitive Programming Enthusiast, </b>&nbsp;&nbsp <br><b>still a learner</b>
     with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> and a
     <b>developer</b> &nbsp.
